@@ -1,0 +1,16 @@
+ID,Priority,Details,Status,Deadline,Completed,Project
+1,1,Add linear congruential generator,Done,02/07/2020,30/06/2020,Pseudo-random numbers
+2,2,Add lehmer random number generator,Done,02/07/2020,30/06/2020,Pseudo-random numbers
+3,3,Add lagged Fibonacci generator,Pending,03/07/2020,,Pseudo-random numbers
+4,1,Add Monte-Carlo method,Done,04/07/2020,02/07/2020,Pseudo-random numbers
+5,1,Realize Box-Muller transform,In progress,04/07/2020,,Pseudo-random numbers
+6,3,Verify generators by Kolmogorov–Smirnov test,New,08/07/2020,,Pseudo-random numbers
+7,1,Realize rectangle method,Done,03/07/2020,29/06/2020,Definite integrals
+8,1,Realize trapezoidal rule,Done,03/07/2020,30/06/2020,Definite integrals
+9,3,Add Monte-Carlo method,New,04/07/2020,,Definite integrals
+10,2,Realize Simpson's rule,In progress,04/07/2020,,Definite integrals
+11,1,Create test data,Done,28/06/2020,28/06/2020,DQE HW8
+12,1,Add connection with DB,Done,29/06/2020,28/06/2020,DQE HW8
+13,2,Create and populate tables,In progress,29/06/2020,,DQE HW8
+14,2,Create select query for showing tasks,Pending,30/06/2020,,DQE HW8
+15,3,Test program,Pending,30/06/2020,,DQE HW8
